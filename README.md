@@ -1,4 +1,4 @@
-# Logo genarator
+# Logo generator
 ## Description
 
   In this application you can input a three letter string, a text color, a shape, and a shape color to then be presented with an svg containing your logo
